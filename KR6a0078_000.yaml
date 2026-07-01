@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0078/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 兜調經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0078.xml
+    old_id: T01n0078
+hash: sha256:db8fc9c30d35ae13eb8594cabeb3e0873cc13b3b100637d9ba5cdae6df37e5d8
