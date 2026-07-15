@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0078/v1
 canonical_location: https://kanripo.org/bkk/KR6a0078/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 兜調經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0078_000.yaml, hash: 'sha256:db8fc9c30d35ae13eb8594cabeb3e0873cc13b3b100637d9ba5cdae6df37e5d8'}
-  - {seq: 1, filename: KR6a0078_001.yaml, hash: 'sha256:b13ea508d58680c751707dd37976aa8314ad8aa2451ebdd2137b3de852a8758b'}
+  - {seq: 1, filename: KR6a0078_001.yaml, hash: 'sha256:d67985f95c1aed1d2ed2237131bcd7ace99f6621f352a1af920681f3721f11a1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0078_000.markers.yaml, hash: 'sha256:30186d91a11d2cce4bee4cfac7d8ab3c3cbf7ff02c2d83a4ae7ccf3edf5f600b'}
-  - {seq: 1, role: markers, filename: assets/KR6a0078_001.markers.yaml, hash: 'sha256:0039652d2360085e8b87d9ad411a468505050cf3b93ce405d145cca1a4274d70'}
+  - {seq: 1, role: markers, filename: assets/KR6a0078_001.markers.yaml, hash: 'sha256:d9227b80585548473925842ed29b6a9cc151b251f3d1783962db0ad264154547'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說兜調經
   type: juan
   level: 1
-hash: sha256:95c0613c6bfae89f701b85b6804454c1310ce8b1712ac56861331b64a9963a47
+hash: sha256:971e291898de992d7f4fc6aaafd0bf3dc5f0dc924335661a7f80f822381dcdec
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
