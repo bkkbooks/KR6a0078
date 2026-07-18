@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0078_000-T.yaml, hash: 'sha256:db8fc9c30d35ae13eb8594cabeb3e0873cc13b3b100637d9ba5cdae6df37e5d8'}
   - {seq: 1, filename: KR6a0078_001-T.yaml, hash: 'sha256:b13ea508d58680c751707dd37976aa8314ad8aa2451ebdd2137b3de852a8758b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0078_000-T.markers.yaml, hash: 'sha256:9396407e565338e773906c8bdcd49dcb2c53d2434e57ef9ecc8bbce56c1f51e7'}
+  - {seq: 0, role: markers, filename: assets/KR6a0078_000-T.markers.yaml, hash: 'sha256:cd87267bc7c87ab84a9299989d33178af5b3fb4e7d2936395ed11184fee1ba7b'}
   - {seq: 1, role: markers, filename: assets/KR6a0078_001-T.markers.yaml, hash: 'sha256:c814ee0fbab03f4834205c1b403563319491367ba1277bf1d2f4ba1c0f13db83'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說兜調經
   type: juan
   level: 1
-hash: sha256:3985d467779159afaf5c6e24ac4525f7167bbe17f0fa35c79094d8dbd8e6adad
+hash: sha256:83df274a2b29b7792db3dd76b582b3fe78a054f9116356eac12c119a1e926ab9
